@@ -1,0 +1,12 @@
+@startsalt Принятие товара для отправки
+{
+    <b>Принятие товара для отправки
+    Товар       | "Помидор"
+    Количество  | "50"
+    Пункт назначения | {() Магазин №1 | (X) Магазин №2 | () Магазин №3}
+    Дата отправки | "2024-10-31"
+    [Отмена] | [Подтвердить отправку]
+}
+@endsalt
+
+https://www.plantuml.com/plantuml/png/dL6xIWD15EttAowfOX7OtMWdaiyGGeg8Tc9Xjek1E15iX6t4GiI0Np3eB0vvhBzmxY_u9PwPmKPJvHPxu3psdiiC9jNukfgCBol1KkVms6gjXjW8eSKxB6ahS5XhBMZ9VWM6oWe-csR2EJuxsIyk7Bpz6YNDZNIm9BU1XsDatac-Pt9hUBr7exTgc6cZ-IXF1bPOO8kL6Y5OV8PlS1EzrhHEkmU25qeVKMPT-RvxAgXqJtSf9PMTaVuiRNpa0WFxxx1GgypBmrwHz_f5gZV4AqsRMCUEw1Z6Arsyf67MiQNHXpy_qyKecsM3Ywlpy4m_

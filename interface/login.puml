@@ -1,0 +1,10 @@
+@startsalt login
+{
+  <b>Вход в систему
+  Имя пользователя | "username"
+  Пароль           | "****    "
+  [Cancel]         | [  OK   ]
+}
+@endsalt
+
+https://www.plantuml.com/plantuml/png/SoWkIImgAKxCAL78oK_FpEEgvb9Gi4cokp3fOkk5VHUsA5pOf72nySAEYuqNcovilR3dOZDG_i8C8ADVuS9-e8hT5tikR0VIcovi0AlO3PIeKL0gBKujoalCJLK2APyFb6k0g5M00v0gBI00CK6gefqJyv9JSsAHvACL5FozWQnOhbekXzIy590p0G00

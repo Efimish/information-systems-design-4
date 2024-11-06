@@ -1,0 +1,12 @@
+@startsalt Принятие товара для утилизации
+{
+    <b>Принятие товара для утилизации
+    Товар       | "Яблоки"
+    Количество  | "20"
+    Причина     | {() Истек срок годности | (X) Повреждение при хранении | () Иное}
+    Дата приема | "2024-10-31"
+    [Отмена] | [Подтвердить утилизацию]
+}
+@endsalt
+
+https://www.plantuml.com/plantuml/png/dP4nJW9X48NxFSM42WiIG4jZE8O9eS1ePonaEoGHZDeOQIoCXIHUm17trmtWxnNUtCZtpu-TbPEG2VE-UVjcjpSgX-VbQ7XQ2XPsYHfVDhSPUn2sY2MKOnLKMDjSxCh5DN-VL6xOws9S26l_wE3_5iB2ooyikIwaWLUy4OrOeMvawed_k6ot23QbrHBHqMux0pa4PGQ1Ret6pHt1e_C1Ax4f6PeAtjagWj6rccZpaEWYHI4Jy44v44Zdu3jPYrspAMS-zoMtJpO8avpY0Kf3tUuGtK1ppEvUgzDkxNPot3wUoMtSImSa-lxmoYyBtArupCpk_dXlTZye9aNlvEmuVS0V

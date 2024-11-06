@@ -1,0 +1,10 @@
+@startsalt Создание отчета по остаткам товара
+{
+    <b>Создать отчет по остаткам товара
+    Дата     | "30.10.2024"
+    Формат   | {() PDF | () CSV | (X) Excel | () SQL}
+    [Отмена] | [Создать отчет]
+}
+@endsalt
+
+https://www.plantuml.com/plantuml/png/SoWkIImgAKxCAL6uiF32lWlRBsoviE72tWixBcnLkB3lOjF5zWjRBpPTsA1mOV-5VGeNjW35Me7AG8hsS5LpAG21JP8TGYjGHm-IHcpQm9ekJ06g1Pkx5yXe1uhl1dA0e4P1oTX0py1IpyZ0o4G9LItGX5r0l1Ue7kp6Y_rGvOO6oCgN06rhkB07f4a12e3ggZKq5G9St80i8CCvE0p4YD1KSAr8Jis120O7-jI2JOY-CEzY4z20hI37nS9DYCRfpLYkMYw7rBmKK3W20000

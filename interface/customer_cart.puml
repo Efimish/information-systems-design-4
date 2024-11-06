@@ -1,0 +1,16 @@
+@startsalt Корзина товаров
+{
+    <b>Корзина товаров
+    {# <b>Название | <b>Категория | <b>Цена | <b>Кол-во | <b>Стоимость | .
+    Помидор  | Овощи  | 10₽ | "3" | 30 | [] Выбрать
+    Яблоко   | Фрукты | 20₽ | "2" | 40 | [] Выбрать
+    Банан    | Фрукты | 30₽ | "2" | 60 | [] Выбрать
+    <b>Итого |    *   |  *  | * |  * | 130
+    }
+    [Удалить выбранный товар]
+    [Добавить товар]
+    [Оформить заказ]
+}
+@endsalt
+
+https://www.plantuml.com/plantuml/png/VP91IiD068NtESLGTmKbRSILIEzHigZeJbpOx6eXHZTIGHGN8bWHnQsJj2LZskGCRwxWINppau2YTc3-oJpU-uP_9hrXD3Y9XeEZIE41bOsHmw24LZP1XGoQ4bTlv2cEtVszjJOnZJR4zmXDLyPQqhjGftLQCxB0J2Z6NjVw6pNo6XTXoqs6grfubdCCLeoTsSHUKT-Iq_24YhB1t14LTKnTq5x2k5t7_qnAhgsWnHhuBFrGuTPEaDeOsi44X7UaM19My5JXlDhOdgEWOy9jjm5r7MXx3UX6UkPKVt627voTVpdIzxtqFPDxu6WBa0jhcrDA9_35FvRQnmlcqEp4o3qXQy0eKVBxuzkRXNNaZa9AHrQ7VZkcza9URDLWSzeBpZpqnbxlyFZ0_KHV

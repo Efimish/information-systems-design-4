@@ -1,0 +1,40 @@
+erDiagram
+    USER {
+        integer id
+        text username
+        text created_at
+    }
+    
+    STORE {
+        integer id
+        text name
+        text location
+        text created_at
+    }
+    
+    ITEM {
+        integer id
+        text name
+        text description
+        text created_at
+    }
+    
+    USER_STORE {
+        integer id
+        integer user_id
+        integer store_id
+        text created_at
+    }
+    
+    ITEM_STORE {
+        integer id
+        integer item_id
+        integer store_id
+        integer amount
+        text created_at
+    }
+    
+    USER_STORE }o--|| USER : "user_id"
+    USER_STORE }o--|| STORE : "store_id"
+    ITEM_STORE }o--|| ITEM : "item_id"
+    ITEM_STORE }o--|| STORE : "store_id"

@@ -1,0 +1,13 @@
+@startsalt Добавление товара
+{
+    <b>Добавить товар
+    Название       | "Помидор"
+    Категория      | {() Фрукты |(X) Овощи}
+    Оптовая цена   | "8₽"
+    Розничная цена | "10₽"
+    Количество     | "100"
+    [Отмена]       | [Добавить]
+}
+@endsalt
+
+https://www.plantuml.com/plantuml/png/NT2_JeOm50NmlK_HVDFdXfk3CJo62M70w6OSX0r8i2OQeucB4udeu0DKbD387r_Xt5VmIRobe2ZZwU_sNEh7INIUnD5f8l604Q_GgD6XmG23HfB2o86c0bgaGlAtVtImeeOKtQtOHF38PwqDvclSbyaDdXZsdBrZf6BZTCc3YYlVR0P3zmjFjpiIBrJG9JwuvrPcsqDEAjGiRs1oDr_XSrc0P-bgsbwxmhqlDSmrpqnQkn1TO_XB6Uvwlx9asKskeGjIjixcZdaE1QZuf7SNX3z_6Fn_cr3amZyvExPlBBu1

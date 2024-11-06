@@ -1,0 +1,15 @@
+@startsalt Список товаров
+{
+    <b>Список товаров
+    {# <b>Название | <b>Категория | <b>Оптовая цена | <b>Розничная цена | <b>Количество | .
+    Помидор | Овощи  | 8₽  | 10₽ | 100 | [] Выбрать
+    Яблоко  | Фрукты | 15₽ | 20₽ | 50  | [] Выбрать
+    Банан   | Фрукты | 25₽ | 30₽ | 30  | [] Выбрать
+    }
+    [Удалить]
+    [Редактировать]
+    [Добавить товар]
+}
+@endsalt
+
+https://www.plantuml.com/plantuml/png/VPB1IiD054Nt-Oe1zn8h1HSY_O_IHKLtui9cLmlJ28fK4CLLmLhHlKbiQ6XD-Wlt_O9VudsJANJH6iXxoRrtJYOlQVMYxbNKwrv41kzOeP0XAYoCn6mP4h7QWtvWU1oVdlmNqaX_pwLUaM2k5aeKoCsrKyUCniZnZKeiAOzUds2rHb6JMqPA9DwSqfWhHkvOjmJ632oTdSkGd0mLdNst7RpH_461cJwICYRgopqAmxkZtxZKVX3omlMGjTqnU9OHKh6wONceKLz8iTJt9bz9dsBb1Wi6HhgqMICQ7jKCpMxKaniCJxE5rF2amt3TTvC6hhRnWHaIDmKw7IzEaJkPO1hM3tWZy48fPI2hrsrypqum25hdbsVwOmH_

@@ -1,0 +1,28 @@
+@startuml Оптово-розничная продажа товаров
+left to right direction
+
+actor "Продавец" as seller
+actor "Водитель" as driver
+actor "Владелец" as owner
+actor "Покупатель" as customer
+
+usecase "Просмотреть товары" as viewProducts
+usecase "Оформить заказ" as placeOrder
+usecase "Составить отчет по остаткам товара" as inventoryReport
+usecase "Составить отчет по доходам" as incomeReport
+usecase "Списать испорченные товары" as badGoods
+usecase "Принять товары для отправки в магазин" as refill
+usecase "Принять испорченные товары для утилизации" as dispose
+usecase "Получить отчет по движению товаров и доходам" as movementReport
+
+seller --> inventoryReport
+seller --> badGoods
+seller --> viewProducts
+driver --> refill
+driver --> dispose
+owner --> movementReport
+owner --> incomeReport
+customer --> viewProducts
+customer --> placeOrder
+
+@enduml
